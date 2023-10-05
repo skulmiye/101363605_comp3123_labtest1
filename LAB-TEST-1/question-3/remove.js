@@ -22,8 +22,6 @@ if (fs.existsSync(logsDir)){
         console.log(`deleted files...${file}`);
     });
 
-
-
     // remove the Logs directory
     fs.rmdirSync(logsDir);
 
