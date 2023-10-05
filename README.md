@@ -1,1 +1,4 @@
-# 101363605_comp3123_labtest1
+# COMP3123 Lab Test 1
+
+- Name: Sabirin Kulmiye
+- Student ID: 101363605
